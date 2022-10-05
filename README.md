@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Adepoju
-- 👀 I’m interested in Flutter, Dart, Python, Flask & AI/Machine Learning
-- 🌱 I’m currently learning Flutter & Dart
+- 👀 I’m interested in Flutter, Dart, Php, Larvel, Python & AI/Machine Learning
+- 🌱 I’m currently learning Flutter & Dart and exploring Laravel for backend
 - 💞️ I’m looking to collaborate on Flutter/Dart projects
 - 📫 How to reach me victoradepoju30@gmail.com
 
