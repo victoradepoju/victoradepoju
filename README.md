@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Adepoju
-- 👀 I’m interested in JAVA, Spring (boot), Flutter, Dart, Php, Larvel, Go, Python & AI/Machine Learning
-- 🌱 I’m currently learning Flutter & Dart and exploring JAVA and Laravel for backend
+- 👀 I’m interested in Java, Spring (boot), Flutter, Dart, Php, Larvel, Go, Python & AI/Machine Learning
+- 🌱 I’m currently exploring and working with Java and Spring Framework
 - 💞️ I’m looking to collaborate on Java/Spring and Flutter/Dart.
 - 📫 How to reach me victoradepoju30@gmail.com
 
